@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0a1",
+    "category": "Eye Wear",
+    "name": "Blue Shades",
+    "price": 1420,
+    "img": "https://images.unsplash.com/photo-1564245659875-79f41f648854?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
+  },
+ {
+    "id": "0b2",
+    "category": "Eye Wear",
+    "name": "Pink Shades",
+    "price": 1470,
+    "img": "https://images.unsplash.com/photo-1625591338875-e2cca9de80a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=827&q=80"
+  },
+ {
+    "id": "0c3",
+    "category": "Eye Wear",
+    "name": "Green Shades",
+    "price": 1234,
+    "img": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  },
+ {
+    "id": "0d4",
+    "category": "Eye Wear",
+    "name": "Thick Frame",
+    "price": 820,
+    "img": "https://images.unsplash.com/photo-1531380096452-2c5fa9bb9589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+ {
+    "id": "0e5",
+    "category": "Eye Wear",
+    "name": "Stylish Ladies Glass",
+    "price": 1420,
+    "img": "https://images.unsplash.com/photo-1508296695146-257a814070b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  },
+ {
+    "id": "0f6",
+    "category": "Eye Wear",
+    "name": "Silver Frame",
+    "price": 1230,
+    "img": "https://images.unsplash.com/photo-1625591339971-4c9a87a66871?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=744&q=80"
+ },
+ {
+    "id": "0g7",
+    "category": "Eye Wear",
+    "name": "Rose Gold",
+    "price": 1320,
+    "img": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+ {
+    "id": "0h8",
+    "category": "Eye Wear",
+    "name": "Red Shades",
+    "price": 1120,
+    "img": "https://images.unsplash.com/photo-1558424345-fc525fcab863?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+  },
+ {
+    "id": "0i9",
+    "category": "Eye Wear",
+    "name": "Transparent Shades",
+    "price": 1400,
+    "img": "https://images.unsplash.com/photo-1626104853817-343b24b5613f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+ {
+    "id": "1k0",
+    "category": "Eye Wear",
+    "name": "Leoperd Shades",
+    "price": 1222,
+    "img": "https://images.unsplash.com/photo-1523754865311-b886113bb8de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=813&q=80"
+  },
+ {
+    "id": "1n1",
+    "category": "Eye Wear",
+    "name": "Maroon Shades",
+    "price": 1440,
+    "img": " https://images.unsplash.com/photo-1532377394423-f5e9ce8c3511?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+ {
+    "id": "1f2",
+    "category": "Eye Wear",
+    "name": "Jet Black",
+    "price": 1280,
+    "img": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  }
+]

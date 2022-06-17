@@ -1,0 +1,24 @@
+.cart  {
+  display: flex;
+margin-top: 20px;
+}
+.cart-info  {
+  display: flex;
+  padding-left: 20px;
+}
+.cart-name  {
+  padding-right: 20px;
+}
+.cart img {
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+    
+}
+.cart button {
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+    border: none;
+    font-size: 30px;
+}
